@@ -1,0 +1,5 @@
+{
+  "name": "LoL Math Optimizer",
+  "description": "A data-driven League of Legends matchup analyzer that uses mathematical reasoning to suggest optimal builds, runes, and skill orders.",
+  "requestFramePermissions": []
+}
